@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnTuerTuer.iml" filepath="$PROJECT_DIR$/AnTuerTuer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codeview/codeview.iml" filepath="$PROJECT_DIR$/codeview/codeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fineme/fineme.iml" filepath="$PROJECT_DIR$/fineme/fineme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/losttimer/losttimer.iml" filepath="$PROJECT_DIR$/losttimer/losttimer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicwand/magicwand.iml" filepath="$PROJECT_DIR$/magicwand/magicwand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merryme/merryme.iml" filepath="$PROJECT_DIR$/merryme/merryme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navbrid/navbrid.iml" filepath="$PROJECT_DIR$/navbrid/navbrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secretus/secretus.iml" filepath="$PROJECT_DIR$/secretus/secretus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seeds/seeds.iml" filepath="$PROJECT_DIR$/seeds/seeds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syncmusic/syncmusic.iml" filepath="$PROJECT_DIR$/syncmusic/syncmusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wishwall/wishwall.iml" filepath="$PROJECT_DIR$/wishwall/wishwall.iml" />
+    </modules>
+  </component>
+</project>
