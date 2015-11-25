@@ -13,7 +13,6 @@ android {
     }
     buildTypes {
         release {
-            gaode:435bf9c4287c3ea7f03c60b21eaca92d
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
@@ -21,8 +20,11 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
+    compile project(':common-utils')
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile "org.androidannotations:androidannotations-api:3.3.2"
 }
